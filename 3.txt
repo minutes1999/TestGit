@@ -1,0 +1,1 @@
+this is file of wsl2 kali
